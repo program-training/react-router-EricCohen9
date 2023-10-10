@@ -1,12 +1,15 @@
-import "./App.css";
-import { Example } from "./components/Example/Example";
+// import "./App.css";
+// import React from "react";
+// import ReactDOM from "react-dom/client";
+// import { createBrowserRouter, RouterProvider } from "react-router-dom";
+// import { AllUsers } from "./components/Example/getAllUsers";
 
-function App() {
-  return (
-    <>
-      <Example />{" "}
-    </>
-  );
-}
+// function App() {
+//   return (
+//     <>
+//       <AllUsers />
+//     </>
+//   );
+// }
 
-export default App;
+// export default App;
